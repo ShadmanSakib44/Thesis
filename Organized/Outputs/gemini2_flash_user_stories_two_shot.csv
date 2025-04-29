@@ -1,4 +1,4 @@
-data,app,type,user_story
+data,app,type,generated_user_story
 "Please huawei, fix the issue of steps counting from both the phone and the watch which is giving a composite reading. It is totally an acceptable. Give us the option to the source of steps counting.",Huawei Health,problem_report,"As a user, I want the option to choose whether step counts are sourced from my phone or my watch (but not both simultaneously) so that I receive an accurate step count reading.
 "
 Love this app and all the features. It works great since my phone comes with it. My only complaint is that I wish there was a widget for the food tracker I need the app. The only widget they have available is for counting steps.,Samsung Health,feature_request,"As a user, I want a widget for the food tracker so that I can quickly access and update my food intake without opening the app.

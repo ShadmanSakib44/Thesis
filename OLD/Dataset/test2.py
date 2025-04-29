@@ -1,25 +1,25 @@
-# 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
+import pandas as pd
 
+# Load the CSV file
+file_path = r'D:\Research\Thesis\OLD\Dataset\filtered.csv'
+df = pd.read_csv(file_path)
 
-from openai import OpenAI
+# View a sample of the app column to understand values (optional)
+# print(df['app'].unique())
 
-client = OpenAI(
-  base_url="https://openrouter.ai/api/v1",
-  api_key="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",
-)
+# Count the occurrences of each app
+app_counts = df['app'].value_counts()
 
-completion = client.chat.completions.create(
-  extra_headers={
-    "HTTP-Referer": "<YOUR_SITE_URL>", # Optional. Site URL for rankings on openrouter.ai.
-    "X-Title": "<YOUR_SITE_NAME>", # Optional. Site title for rankings on openrouter.ai.
-  },
-  extra_body={},
-  model="openai/gpt-3.5-turbo",
-  messages=[
-    {
-      "role": "user",
-      "content": "What is the meaning of life?"
-    }
-  ]
-)
-print(completion.choices[0].message.content)
+# Filter counts for Samsung, Huawei, and Garmin
+target_apps = ['Samsung', 'Huawei', 'Garmin']
+filtered_counts = app_counts[app_counts.index.str.contains('|'.join(target_apps), case=False)]
+
+# Calculate total and percentage
+total_reviews = filtered_counts.sum()
+distribution = (filtered_counts / total_reviews) * 100
+
+# Display the results
+print("Review Count:")
+print(filtered_counts)
+print("\nPercentage Distribution:")
+print(distribution.round(2))
