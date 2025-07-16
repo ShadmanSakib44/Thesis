@@ -1,5 +1,5 @@
 {
-  "name": "user-story-evaluator",
+  "name": "user-evaluator-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.51.0",
     "next": "15.3.2",
     "papaparse": "^5.5.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "user-story-evaluator": "file:"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
