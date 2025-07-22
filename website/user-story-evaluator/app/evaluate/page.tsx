@@ -13,7 +13,7 @@ interface UserStory {
 
 interface Review {
   id: string;
-  content: string;
+  text: string;
   user_stories: UserStory[];
 }
 
@@ -28,13 +28,17 @@ export default function EvaluatePage() {
       const email = localStorage.getItem('user_email');
       if (!email) return;
 
-      const { data: user } = await supabase.from('users').select('*').eq('email', email).single();
+      const { data: user } = await supabase
+        .from('users')
+        .select('*')
+        .eq('email', email)
+        .single();
       if (!user) return;
       setUserId(user.id);
 
       const { data: allReviews } = await supabase
-        .from('app_reviews')
-        .select('id, content, user_stories(id, story_text, avg_score, index)')
+        .from('reviews')
+        .select('id, text, user_stories(id, story_text, avg_score, index)')
         .order('id', { ascending: true });
 
       const { data: userRatings } = await supabase
@@ -84,14 +88,12 @@ export default function EvaluatePage() {
 
       const avgScore = scores.reduce((a, b) => a + b, 0) / scores.length;
 
-      // Insert rating
       await supabase.from('ratings').insert({
         user_id: userId,
         story_id: story.id,
         score: avgScore,
       });
 
-      // Update avg_score and rating_count
       const { data: all } = await supabase
         .from('ratings')
         .select('score')
@@ -126,7 +128,7 @@ export default function EvaluatePage() {
   return (
     <div className="p-8">
       <h2 className="text-xl font-bold mb-4">App Review</h2>
-      <p className="mb-6">{currentReview.content}</p>
+      <p className="mb-6">{currentReview.text}</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
         {currentReview.user_stories.map((story, storyIdx) => (

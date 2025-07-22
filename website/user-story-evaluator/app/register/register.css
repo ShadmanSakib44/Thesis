@@ -62,3 +62,35 @@
 .register-form button:hover {
   background-color: #1d4ed8;
 }
+
+.google-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.google-button:hover {
+  background-color: #f2f2f2;
+}
+
+.google-logo {
+  width: 20px;
+  height: 20px;
+}
+
+.oauth-divider {
+  text-align: center;
+  margin: 1.5rem 0;
+  font-weight: bold;
+  color: #888;
+}
