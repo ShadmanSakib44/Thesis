@@ -1,56 +1,93 @@
-.eval-container {
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #baccf0;
+  color: #1a202c;
+}
+
+/* Main container spacing */
+.p-8 {
   padding: 2rem;
+  max-width: 1600px;
+  margin: auto;
 }
 
-.review-header {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
+/* App review section */
+h2 {
+  font-size: 1.75rem;
+  color: #1e3a8a;
+  font-weight: 700;
 }
 
-.review-content {
+p {
   font-size: 1.1rem;
-  margin-bottom: 2rem;
   color: #333;
 }
 
-.story-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-}
-
-.rating-buttons {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 2rem;
-}
-
-.rating-buttons button {
-  padding: 0.6rem 1.2rem;
-  font-size: 1rem;
-  border-radius: 6px;
+/* Cards (UserStoryBlock containers) */
+.grid > div {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem;
   border: none;
+}
+
+/* Rating buttons */
+.grid button {
+  border: 1px solid #1e3a8a;
+  background-color: white;
+  color: #1e3a8a;
+  font-weight: 600;
+  border-radius: 6px;
+  padding: 6px 10px;
+  margin: 0 4px 8px 0;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background-color 0.2s ease;
 }
 
-.prev-btn {
-  background-color: #e5e7eb;
-  color: #111827;
+.grid button:hover {
+  background-color: #1e3a8a;
+  color: white;
 }
 
-.prev-btn:disabled {
-  opacity: 0.5;
+/* Active rating button (optional – JS should toggle this class) */
+.grid button.active {
+  background-color: #1e3a8a;
+  color: white;
+}
+
+/* Navigation buttons */
+button {
+  font-size: 1rem;
+  padding: 10px 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+button:disabled {
+  opacity: 0.6;
   cursor: not-allowed;
 }
 
-.submit-btn {
-  background-color: #16a34a;
-  color: white;
+/* Specific overrides */
+.bg-gray-300 {
+  background-color: #d1d5db !important;
 }
 
-.next-btn {
-  background-color: #2563eb;
-  color: white;
+.bg-green-600 {
+  background-color: #059669 !important;
+}
+
+.bg-green-600:hover {
+  background-color: #047857 !important;
+}
+
+.bg-blue-600 {
+  background-color: #2563eb !important;
+}
+
+.bg-blue-600:hover {
+  background-color: #1d4ed8 !important;
 }
