@@ -17,7 +17,7 @@ export default function Likert({ label, value, onChange, disabled = false }: Lik
             key={num}
             disabled={disabled}
             className={`px-3 py-1 border rounded ${
-              value === num ? 'bg-blue-500 text-white' : 'bg-white'
+              value === num ? 'bg-[#1e3a8a] text-white font-bold' : 'bg-white text-[#1e3a8a]'
             } ${disabled ? 'opacity-50 cursor-not-allowed' : ''}`}
             onClick={() => !disabled && onChange(num)}
           >
