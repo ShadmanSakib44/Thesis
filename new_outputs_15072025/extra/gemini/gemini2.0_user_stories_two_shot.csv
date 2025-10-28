@@ -1,0 +1,847 @@
+app_review,app,type,user_story
+"Does not want to work, I'm getting a strange message about changes to my phone and to contact customer service. Please advice on this matter.",Samsung Health,problem_report,"As a user, I want the app to function correctly without error messages and clear guidance on how to resolve any issues so that I can use the app without needing to contact customer service.
+"
+I am happy with the app but Don't buy huawei band 4 because it is not beetter then mi band 4 huawei band should get more improve in updated not even amoled or not our own wallpaper,Huawei Health,problem_report,"As a user comparing fitness trackers, I want the app to provide accurate and reliable data and features comparable to alternative devices like the Mi Band 4 so that I can make informed purchasing decisions and have a satisfactory user experience with my chosen device.
+"
+"After the last two updates, the app stopp taking record of my sleep time automatically.... I kindly advice the developers to see to that...",Samsung Health,problem_report,"As a user, I want the app to automatically record my sleep time as it did before the last two updates, so that I don't have to manually track my sleep data.
+"
+"I bought this thinking i could use this for open water swimming. Far from efficient, as i couldnt close the app after i finished. Would have been great to have been able to tell the actual water temp too. Also the sleep function is ineffective.",Huawei Health,problem_report,"Here's a user story derived from the review:
+
+**As a user:**
+
+*   I want the app to function correctly in open water (specifically be able to be closed after use) so that I can reliably use it for open water swimming.
+*   I want to be able to view the actual water temperature so that I can make informed decisions about my open water swim.
+*   I want the sleep function to accurately track my sleep patterns so that I can gain insights into my sleep quality.
+"
+"I like this app. It does everything I need it to do with the exception of a barcode scanner for the ""eat healthier"" program or at least let me import scan data from another app to this one",Samsung Health,feature_request,"As a user participating in the ""eat healthier"" program, I want a barcode scanner within the app, or the ability to import scan data from another app, so that I can easily track the nutritional information of the food I consume.
+"
+"Not always do I take my phone, I wish the app still allowed us to put ours steps in from our other devices not supported.",Samsung Health,feature_request,"As a user, I want the ability to manually input steps from unsupported devices so that my step count is accurate even when I don't have my phone with me.
+"
+Add Tecno mobile features in this app. I've band 6 and I'm having identification error,Huawei Health,problem_report,"As a user with a Tecno Band 6, I want the app to fully support Tecno mobile features and properly identify my device so that I can seamlessly integrate my wearable with the app.
+"
+Overall quite a good app but needs to be a little easier to access the settings section...,Garmin Connect,feature_request,"As a user, I want the settings section to be more easily accessible so that I can quickly adjust my preferences.
+"
+"Settings is enabled but kept asking sms permission on my s7, hence couldn't connect with my friends who has S health.",Samsung Health,problem_report,"As a user with an S7, I want the app to properly handle SMS permissions after I've already enabled them (according to settings) so that I can connect with my friends who use S Health.
+"
+Disappointed with this app. No way to install additional watch faces unless you download the moded chinese version. Why is this app not regularly updated?,Huawei Health,feature_request,"Here's a user story based on the provided review:
+
+**User Story:** As a user, I want the ability to install additional watch faces directly through the app without needing to resort to unofficial or modified versions, and for the app to be regularly updated, so that I have access to a variety of customization options and a reliable, well-maintained experience.
+"
+"I used to love this app.. now it dosent even work properly. It dosent even count my steps sometime.. really frustrating, also weight management feature is no longer there with the new update.. pointless having this app anymore..",Samsung Health,problem_report,"Here's a user story based on that review:
+
+*   **As a user, I want the app to reliably track my steps so that I can accurately monitor my activity levels.**
+*   **As a user, I want the weight management feature to be restored so that I can continue to use the app for my comprehensive health tracking.**
+    *(Optional: As a previous user I want the app to maintain or improve existing functionality in updates so that my experience does not degrade.)*
+"
+Does the job. But my floor count is so inaccurate the last 4 weeks. Vivosmart keeps saying I've climed 35+ floors everyday when its more like 10-15 floor.,Garmin Connect,feature_request,"As a user of Vivosmart, I want the floor count tracking to be more accurate so that I can rely on the data for a more realistic representation of my activity levels.
+"
+My activities from My Fitness Pal don't sync into the Connect app. I'm having to enter my workouts manually.  My information such as my picture or personal stats/settings are saving some and not others. My screens look nothing like any of the screenshots or videos.,Garmin Connect,problem_report,"Here's a breakdown of the review and a resulting user story:
+
+**Understanding the Issues:**
+
+The review highlights several problems:
+
+*   **Integration Issue:** My Fitness Pal data doesn't sync.
+*   **Data Saving Issue:** Personal information is inconsistently saved.
+*   **UI Issue:** The app's appearance doesn't match expected visuals.
+
+**User Story:**
+
+Here's a user story capturing the essence of the user's needs:
+
+""As a user, I want the Connect app to properly sync with My Fitness Pal, reliably save my personal data and settings, and display a consistent and accurate user interface so that I can seamlessly track my fitness progress and have a positive experience with the app.""
+"
+Aftsr latest update gt2 doesnt connect to internet. Cannot show weather data and cant check for update... Also cant change watch faces. Also probkems in help page... Simply notngood,Huawei Health,problem_report,"As a user, I want my GT2 watch to reliably connect to the internet after updates so that I can access weather data, check for updates, change watch faces, and use the help page effectively.
+"
+I have installed and uninstalled this app 12 times and it still doesnt work. When I click on 'Sign in' it just goes blank. I have watched the Youtube trouble shooting tutorials also. Does not work.,Garmin Connect,problem_report,"Here's a user story based on the provided review:
+
+**As a user, I want the ""Sign in"" button to function correctly after installation so that I can access the app's features without encountering a blank screen error.**
+"
+"The app says one of the accessories is a samsung heart rate monitor so I ordered it,  doesn't use the heart rate monitor for anything,  big bummer and misleading",Samsung Health,problem_report,"As a user, I want the app to accurately represent the functionality of connected accessories, specifically the Samsung heart rate monitor, so that I can trust the information provided and make informed purchasing decisions.
+"
+Im often using this apps for physical activity daily drive.... But the result was not significant ... Long run about 45 minutes.... And the result. 51% walk.. 49% running...for 8 kilometres... Even im not using this phone for a day.... Yhe result always look like the same....,Huawei Health,problem_report,"Here's a user story based on the review, trying to capture the essence of the user's complaint:
+
+**User Story:** As a user who relies on the app for accurate tracking of physical activity, I want the app to reliably differentiate between walking and running, and reflect actual physical activity even after extended periods, so that I can have confidence in the app's reported data for my daily workouts.
+"
+It keeps getting stuck at the steps screen for me. Keeps loading forever and hangs :( the rest of the app works fine though..,Samsung Health,problem_report,"As a user, I want the steps screen to load quickly and reliably so that I can progress through the application without getting stuck or experiencing hangs.
+"
+it can't  be used in other devices.. samsung should open this types  of software to alll,Samsung Health,feature_request,"As a user, I want the software to be compatible with multiple devices, not just Samsung devices, so that I can access it on any device I choose.
+"
+I wish there was an option to select your preferred 1st day of the week. Other than that I love using the app with my FitBit.,Samsung Health,feature_request,"As a user, I want to be able to select my preferred first day of the week so that the app aligns with my personal scheduling preferences.
+"
+"What is missing is the possibility to create your own training plan,",Huawei Health,feature_request,"As a user, I want the ability to create my own training plan so that I can customize my workouts to my individual needs and goals.
+"
+The Bluetooth connection keeps connecting and disconnecting all the time even when I have my phone close to me.,Garmin Connect,problem_report,"As a user, I want a stable and reliable Bluetooth connection to my device, even when my phone is in close proximity, so that I can avoid interruptions and use the feature without frustration.
+"
+Previous version was better! Cant even get on this updated one. Plus I've lost all data by looks of it,Huawei Health,problem_report,"Here's a user story conversion of the provided review:
+
+**User Story:** As a user, I want the updated app to allow me to log in successfully and retain my previous data so that I can continue using the app without disruption or data loss.
+"
+Getting better and faster ... Keep it up.   Adding 7 minutes workout kind of activities with sample will be great feature.,Garmin Connect,feature_request,"Here's the user story conversion:
+
+**User Story:** As a user, I want to have access to 7-minute workout activities with examples, so that I can have more variety and guidance in my workouts.
+"
+"Love the watch GT2 but really unfortunate that the app keeps crashing, then have to uninstall and reinstall every few days. Can you please fix the app to be stable on Google 6 pro.",Huawei Health,problem_report,"As a user with a Google 6 Pro, I want the app to be stable and not crash, so that I don't have to repeatedly uninstall and reinstall it every few days.
+"
+I do not work out and it keep tell nice work or I'm on a bicycle and it been 4 years for that. Something need fix ASAP,Samsung Health,problem_report,"Here's a user story derived from the provided review:
+
+""As a user, I want the activity tracking within the app to be accurate and not incorrectly register activities (such as congratulating me for workouts I haven't done or registering bicycle activity when I am not on a bicycle) so that I receive relevant and truthful feedback.""
+"
+Can't connect or pairing to huawei smart body fat scale,Huawei Health,problem_report,"As a user, I want to be able to connect and pair my Huawei smart body fat scale to the app so that I can track my body composition data seamlessly.
+"
+"Like many complaints on this product page, it appears the bluetooth connectivity is a real problem for many people.",Garmin Connect,problem_report,"As a user, I want reliable Bluetooth connectivity so that I can use the product as intended without experiencing frequent connection issues.
+"
+This app is getting slower and slower. It just hangs when I come back from my walk. I do not have the problem if I use any of the other running apps.,Samsung Health,problem_report,"Here's the converted user story:
+
+""As a user, I want the app to maintain performance and responsiveness, even after being paused for extended periods (like during a walk), so that I can continue using the app without frustrating delays or freezes.""
+"
+"When the new day starts at midnight I already see 200kcal burned, even if the day just started and I didn't burn anything with training or just thanks to my basal metabolism, please fix this...",Samsung Health,problem_report,"As a user, I want the calorie tracking to accurately reflect my burned calories at the start of a new day so that I can rely on accurate data to manage my fitness goals.
+"
+I used this app for cycling. But the GPS is way off. The map shows me i crossed sea & jungle to reach my destination. Please fix the GPS accuracy & mapping issue .. i test this many times but the inaccuracies is just too much. Pls fix.,Huawei Health,problem_report,"As a cyclist, I want the app's GPS to accurately track my location and map my route so that I can reliably record my cycling activities and understand my progress.
+"
+There is no option or updates given for honor band 4 regarding screen lock and also battery % of band in band itself,Huawei Health,feature_request,"Here's a possible user story based on the provided review:
+
+""As a user of the Honor Band 4, I want the option for a screen lock and to see the battery percentage displayed on the band itself so that I can improve the security of my device and easily monitor its battery life.""
+"
+"After the last update I can't connect my watch to the phone, and I can't set my gender as well",Huawei Health,problem_report,"Here's the converted user story:
+
+**As a user, I want to be able to connect my watch to the phone and set my gender in the app so that I can use all the app's features and accurately represent myself.**
+"
+"Sleep stats are way to conservative since some time (nearly always they require an edit to add sleep time). Also, the app does not want to sync watch data without internet connection - why? What about trying to sync in a remote location out of range?",Garmin Connect,problem_report,"Here's the user story conversion of the review:
+
+**As a user, I want the app to more accurately detect sleep time and allow offline data syncing from my watch so that I can reliably track my sleep and sync my data regardless of internet connectivity.**
+"
+great app but there needs to be a push bike riding activity like the walking and running step count,Samsung Health,feature_request,"As a user, I want to be able to track push bike rides in addition to walking and running, so that I can have a comprehensive record of all my physical activities.
+"
+"My only complaint is if the watch gets powered off (often due to freezing while charging), the app won't sync correctly when the watch is turned back on. It just keeps the info from before the watch was powered off.",Garmin Connect,problem_report,"As a user, I want the app to automatically and accurately sync with my watch after it has been powered off (especially due to freezing while charging), so that my data is always up-to-date and I don't lose progress.
+"
+"Not working at all it does not set up setting, profile, heart from 5 days",Huawei Health,problem_report,"Here's a possible user story derived from the review:
+
+**User Story:** As a user, I want to be able to successfully set up my profile and use the ""heart"" feature so that I can use the app's core functionality and save my preferences.
+"
+"Great app and fun challenges. The only thing I would like to see, is a more  detailed way to track weightlifting workouts by different types of machines.",Samsung Health,feature_request,"As a user, I want a more detailed way to track weightlifting workouts, including different types of machines, so that I can better monitor my progress and optimize my training.
+"
+Huawei Band 3 Pro won't connect to google fit or my fitness pal :(,Huawei Health,problem_report,"As a user of the Huawei Band 3 Pro, I want it to connect to Google Fit and MyFitnessPal so that I can seamlessly track all my fitness data in my preferred platforms.
+"
+"hi, i like the app but i feel it's missing a bar scanner for the food part, like My Fitness does.",Samsung Health,feature_request,"As a user, I want a barcode scanner for the food logging feature, similar to MyFitnessPal, so that I can quickly and easily add food items to my log.
+"
+"I love this app but since my last phone update, the app is saying I'm burning 6000 calories by the end if the day! I wish, lol. Hopefully this gets corrected soon.",Samsung Health,problem_report,"As a user, I want the app to accurately track my calorie expenditure, even after phone updates, so that I can rely on the app for accurate fitness data.
+"
+"My data is not syncing with MyFitnessPal app, it is there is a setting other than linking to the app?",Huawei Health,feature_request,"Here's a possible user story based on the review:
+
+**As a user, I want my data to automatically sync with the MyFitnessPal app, including clear instructions on how to properly link the apps, so that I don't have to manually enter information and I can accurately track my fitness progress across both platforms.**
+"
+"I reinstall this app and all of my records , sleep data gone🤦🏻‍♂️ this app is not sync with huawei claud which my health data stored. I logged out and re loggged in but does not affect huawei health app. shittt",Huawei Health,problem_report,"As a user, I want the app to synchronize my sleep data with Huawei Cloud (or Huawei Health app) so that my data is preserved even after reinstalling the app or logging out and back in.
+"
+"Good UI, after making sure the app auto-starts the phone always connects to the watch. great app, the only problem is that the find my phone app on my watch only makes sound if tge app is open.",Garmin Connect,problem_report,"Here's a conversion of the review into a user story:
+
+**As a user, I want the ""find my phone"" feature on my watch to make my phone ring even when the app on my phone is running in the background, so that I can reliably find my phone when I misplace it.**
+"
+Love the app and the challenges it is incredibly difficult to connect with people you know it would be great if it connected to Facebook or phone book,Samsung Health,feature_request,"As a user, I want the app to connect with Facebook or my phone book so that I can easily find and connect with people I know.
+"
+"The whole app. stopped working. It needed to be updated, I  tried but the app. still won't work. I would like it if someone would tell me.how to fix this.",Samsung Health,problem_report,"Here's a user story derived from the review:
+
+**As a user, I want the app to function correctly after an update, and receive guidance on how to resolve any issues preventing me from using the app so that I can continue to use the app without disruption.**
+"
+Great App. It would be such better if it communicated with other fitness/wellness systems and apps.,Samsung Health,feature_request,"As a user, I want the app to integrate with other fitness and wellness systems and apps so that I can consolidate my health and activity data in one place.
+"
+Updated today and now shows my weight as 10.5:7.0 st?! What the hell is that all about!,Garmin Connect,problem_report,"As a user, I want the app to accurately display my weight in a standard and understandable format so that I can reliably track my progress.
+"
+"The step counter stopped working for the second time. Each time i had to reinstall the app. I have a Samsung Galaxy S5, all software updated. Losing the progress details for what I had accomplished was annoying.",Samsung Health,problem_report,"As a user with a Samsung Galaxy S5 and updated software, I want the step counter to function reliably without stopping, so that I don't lose my progress data and have to reinstall the app repeatedly.
+"
+Won't sync activity or heart rate with Google Fit. Only sleeping data for some reason.,Huawei Health,problem_report,"As a user, I want the app to sync my activity and heart rate data with Google Fit, in addition to sleep data, so that I can have a complete view of my health and fitness information in one place.
+"
+love the app always used it for years but why is there no auto fill for foods anymore ??,Samsung Health,feature_request,"As a user who has used the app for years, I want the auto-fill feature for foods to be reinstated so that I can quickly and easily log my meals.
+"
+I can not give -1 star. App is total usless without weight management. I will remov it and instal another app.,Samsung Health,feature_request,"As a user tracking my weight, I want weight management features included in the app so that I can find it useful and continue using it.
+"
+"After last update how i can see my scheduled trainings? It shows only ""today"" . Please update. Thank you",Garmin Connect,problem_report,"As a user, I want to be able to view my scheduled trainings beyond just ""today"" (after the latest update) so I can plan accordingly and access needed information.
+"
+My rate checker stopped working sence I did the update,Samsung Health,problem_report,"As a user, I want the rate checker to function correctly after an update so that I can accurately check rates without disruption.
+"
+Not able to pair up it with my honor band 5 as it is not updating the device list,Huawei Health,problem_report,"As a user, I want the app to successfully pair with my Honor Band 5 so that I can connect my device and utilize all app functionalities.
+"
+"My honor band 5i touch is not responding, i dont know where to get help, please direct me after seeing this, thank you P.s. Used for less than a month",Huawei Health,problem_report,"As a user with a malfunctioning Honor Band 5i (less than a month old), I want clear instructions or support contact information readily available so that I can troubleshoot or get assistance resolving the issue.
+"
+Sleep track doesn't work. The app doesn't have the same features as the watch. Ridiculous.,Huawei Health,problem_report,"Here are a few options for converting the review into a user story, with slight variations in emphasis:
+
+**Option 1 (Focus on Sleep Tracking):**
+
+*   ""As a user, I want the sleep tracking feature to function correctly so that I can accurately monitor my sleep patterns.""
+
+**Option 2 (Focus on Feature Parity):**
+
+*   ""As a user, I want the app to have the same features as the watch, including functional sleep tracking, so that I have a consistent and complete experience across both devices.""
+
+**Option 3 (Address both issues):**
+
+*   ""As a user, I want functional sleep tracking and feature parity between the app and the watch, so that I can rely on the app as a companion to my watch.""
+
+**Explanation and Considerations:**
+
+*   **""As a user...""**: Starts the user story from the perspective of the person using the product.
+*   **""...I want...""**: Describes what the user desires.
+*   **""...so that...""**: Explains the reason/benefit for the user.
+
+The best option depends on what the development team wants to prioritize. If the sleep tracking issue is the bigger problem, option 1 or 3 might be best. If the overall feature gap between the watch and the app is the focus, option 2 or 3 would be more appropriate.
+"
+The steps didn't sum up at the dashboard for few times already. And makes me can't collect points from there. Upset,Samsung Health,problem_report,"As a user, I want the dashboard to accurately sum up my steps and consistently award me points so that I can track my progress and receive the correct rewards without frustration.
+"
+It's great when it's working. It keeps losing sync and I have to uninstall and reinstall to get it working again. It's happening more and more 😒,Garmin Connect,problem_report,"As a user, I want the app to maintain a stable connection and prevent data loss, so that I don't have to repeatedly uninstall and reinstall the app to restore functionality.
+"
+App and watch are mediocre at best. The app is buggy and does not sync with other apps.,Huawei Health,problem_report,"Here's a possible user story derived from the review:
+
+**User Story:** As a user, I want the app to be stable and reliably sync with other apps so that I can trust the data and use it effectively with my other tools.
+"
+A very handy app but occasionally it's slow to connect to my device.  I recently changed from a Nokia mobile phone which is not fully supported to an android device which is. I recommend this app.,Garmin Connect,feature_request,"Here's the user story conversion of the review:
+
+**As a user, I want the app to connect quickly to my device, especially now that I am using a fully supported Android device, so that I can reliably use the app without frustrating delays.**
+"
+Worst app ..I am not able to download even a single theme ....no clear user guide ... Update your app guys do some work..hate it 👎🏼,Huawei Health,feature_request,"Here are a few options for converting the review into user stories, broken down to address the distinct issues:
+
+**Option 1 (Focus on Downloading and Guidance):**
+
+*   **As a user, I want to be able to successfully download themes so that I can customize the app to my liking.**
+*   **As a user, I want a clear user guide so that I can understand how to use all the app's features and troubleshoot issues.**
+
+**Option 2 (More Direct Approach):**
+
+*   **As a user, I want to be able to easily download themes and find clear instructions on how to use the app so that I can enjoy its features without frustration.**
+
+**Option 3 (Focus on Update/Improvement):**
+
+*   **As a user, I hope that the developers will improve the app to fix download issues and provide better user guidance so that I can enjoy the app more.**
+
+**Explanation of Choices:**
+
+*   **Breaking it down:** I've broken the original review into two separate potential user stories because it highlights two distinct problems:  downloading themes and lack of a user guide.
+*   **Addressing the negativity:** The user's negative tone is important to acknowledge, but it's best to translate that into a constructive desire for improvement, which the third option does.
+*   **""So that..."" clause:** The ""so that..."" clause in each story explains the user's motivation or benefit for wanting the feature. This is crucial for developers to understand the *why* behind the request.
+"
+"Connects well on xperia 10 phone and gt2 pro watch, good charts and map to reference workout. The hight and weight setting don't set properly, only fault.",Huawei Health,problem_report,"Here's a user story based on your provided review:
+
+**As a user, I want the height and weight settings to function correctly so that the fitness data tracked by the app is accurate.**
+"
+"How does it calculate calories? Walked 40 min with 4km/h speed. It is about 2.7km. And the app says me I burnt about 350 calories. How this even possible? In reality it would be 110-130 calories. Please, fix. Otherwise it is useless.",Samsung Health,problem_report,"As a user, I want the app to accurately calculate calorie expenditure based on my activity data (duration, speed, and distance) so that I can track my progress reliably and trust the app's fitness information.
+"
+removed the caloric intake feature and now it's wack edit: just found out you can undo the update by looking up the older version of the app on the Samsung mobile website 😫 still upset the current version doesn't have the calorie intake and outake meter though,Samsung Health,feature_request,"Here's a user story conversion of the provided review:
+
+**User Story:** As a user, I want the app to have a calorie intake and output meter so that I can track my caloric balance directly within the app.
+"
+Good app. But it would be nice if I can choose my own totals in Actvities > Cycling > Totals... etc. Total climb instead of calories or distance. Thank you.,Garmin Connect,feature_request,"As a user, I want the ability to customize the totals displayed in the Activities > Cycling section (and other activity sections) to include metrics like total climb, so that I can track the data most relevant to my fitness goals.
+"
+"If it has an option to flip the data for night shift schedule workers, that would be GREAT!",Samsung Health,feature_request,"As a night shift schedule worker, I want an option to flip/invert the data display (e.g., invert colors or rearrange data fields) so that I can easily view and understand the information in a format optimized for my work schedule.
+"
+Rubbish. Doesn't allow to export data. And why do you need access to my call logs?,Huawei Health,feature_request,"Here's the user story conversion:
+
+**User Story 1 (Data Export):** As a user, I want the ability to export my data so that I can use it in other applications or for backup purposes.
+
+**User Story 2 (Call Log Access):** As a user, I want a clear explanation of why the app needs access to my call logs and the option to deny this access if I'm not comfortable.
+"
+It's good I liked the heart rate and stress measuring but there r problems with step counter,Samsung Health,problem_report,"As a user, I want the step counter to be accurate and reliable so that I can properly track my activity levels.
+"
+Would give 4 but they took down a very vital feature like calorie management.,Samsung Health,feature_request,"Here are a few options for converting the review ""Would give 4 but they took down a very vital feature like calorie management"" into a user story, each emphasizing a slightly different aspect:
+
+**Option 1 (Focus on regaining the feature):**
+
+*   ""As a user, I want the calorie management feature restored so that I can track my dietary intake effectively.""
+
+**Option 2 (More general, acknowledging the loss):**
+
+*   ""As a user, I am disappointed by the removal of the calorie management feature and would like it reinstated as it was vital to my use of the app.""
+
+**Option 3 (Focus on the impact of the loss):**
+
+*   ""As a user, the lack of calorie management significantly decreases the value of the app to me, and I would like to see this feature returned.""
+
+Your pick depends on the desired emphasis! But they all capture the essence of the review: the removal of calorie management is a problem for the user.
+"
+When i open app they said download huawai app gallery then i download that app but it doesn't work please solve this problem i have to use my honor band 4.,Huawei Health,problem_report,"As a user with an Honor Band 4, I want the app to function correctly without requiring the Huawei App Gallery download so that I can use my device as intended.
+"
+I am using huawei gt 2 This app has sooo disappointing watch faces.without any custom for faces.And it looks so poor and not in 3d model at all.samsung has more features and more customs for their watches and i have a bit of shame on you huawei,Huawei Health,feature_request,"As a Huawei GT 2 user, I want more visually appealing and customizable watch faces, including 3D models and more features like Samsung watches, so that I can feel satisfied with the aesthetic options available on my device.
+"
+3 messages in 4 hours now getting very annoying.stop it,Samsung Health,feature_request,"As a user, I want to be able to control the frequency of messages or opt-out of certain message types so that I am not overwhelmed or annoyed by excessive notifications.
+"
+Why does it not work on the Xiaomi MI4 phone? Seems strange that on a new phone it would not work. Does the phone software just need to be updated??,Garmin Connect,problem_report,"As a user with a Xiaomi MI4 phone, I want the app to be compatible with my device so that I can use the app's features without issues.
+"
+"It's good but the Bluetooth connection with the band keeps falling and you have to go to the app to reconnect , and the band itself counts steps if you just move it in your hand !!",Huawei Health,problem_report,"Here's a possible user story based on the review:
+
+**User Story:**
+
+*   As a user, I want a stable Bluetooth connection between the app and the band that doesn't frequently disconnect, so that I can reliably track my activity without constant manual reconnection.
+*   As a user, I want the band to accurately count steps based on walking motion rather than just hand movement, so that my activity data is precise.
+"
+If u can fix the issues with huawei phones then i would give u 5 star but im really frustrated and annoyed by this problem which leads to my vivoactive hr being practically useless,Garmin Connect,problem_report,"Here's a user story based on the review:
+
+**As a user with a Huawei phone, I want compatibility fixes and proper support for my device so that I can reliably use the app with my Vivoactive HR and have a positive user experience.**
+"
+There is no option for check hear rate i can i manage this can you guide us ???,Samsung Health,feature_request,"As a user, I want to be able to track and manage my heart rate within the app (with guidance on how to do so) so that I can monitor my health.
+"
+Asks me everytime i turn my bluetooth on if im having trouble connecting. Needs to be fixed i use many other bluetooth device's,Garmin Connect,problem_report,"As a user, I want the app to stop prompting me about connection issues every time Bluetooth is enabled so that I am not unnecessarily interrupted when using other Bluetooth devices.
+"
+I am not able to open this app on one plus7 .pls help,Huawei Health,problem_report,"As a user with a OnePlus 7, I want the app to open successfully so that I can use its features.
+"
+Without pairing step count continuously. Ultimately very high count different in watch and applications.,Huawei Health,problem_report,"As a user, I want my step count to be accurately and continuously synced between my watch and the application so that I can rely on the data for my fitness tracking.
+"
+i have s6 edge but i can not delete the 2018 weekly summary records can u help ?,Samsung Health,problem_report,"As a user with an S6 Edge, I want to be able to delete 2018 weekly summary records so that I can manage my data and remove outdated information.
+"
+Works very well. Changing my review from being very close to 5 stars to just 2. The newest update that removed the total by calendar month is horrible. Please bring it back. Don't like it at all.,Garmin Connect,feature_request,"As a user, I want the ""total by calendar month"" feature restored in the app so that I can easily track my monthly spending, as the recent update removed it and made it difficult to do so.
+"
+Tries to open files associated with other apps. Garmin is clueless about how their app behaves. Very virus-like activity.,Garmin Connect,feature_request,"Here's a user story based on the provided review:
+
+**As a user, I want the Garmin app to only access files directly related to its intended function and not attempt to open or interact with files associated with other applications, so that I can be confident in the app's privacy and security and avoid potential conflicts or data breaches.**
+"
+"App is great overall, but I would like a way to see the evelation of the route I made. Also, there's no way to add faces to the Band 4 Pro.",Huawei Health,feature_request,"Here's the converted user story based on the review:
+
+**User Story 1:** ""As a user, I want to be able to view the elevation profile of a route I create so that I can better understand the terrain and plan my activity.""
+
+**User Story 2:** ""As a user, I want the ability to add watch faces on my Band 4 Pro so that I can personalize my device.""
+"
+the app continues to show the running man and will not let me sign into my account to be able to sync,Garmin Connect,problem_report,"As a user, I want to be able to successfully sign into my account and sync my data, so that I can access and use all the app's features without being stuck on the loading screen.
+"
+"Food tab is missing a barcode scanner for quick searching macronutrients, needs to add a target macro editing for Fats, Protein & Carbs",Samsung Health,feature_request,"As a user, I want a barcode scanner in the ""Food"" tab for quick macronutrient lookup and the ability to set target macro goals (Fats, Protein, & Carbs) so that I can easily and accurately track my food intake and meet my dietary needs.
+"
+Great step counter and GPS but terrible sleep anyalse some mornings I wake up and look at my phone and it thinks I'm still skeeping....,Huawei Health,problem_report,"Here's a user story converted from your review:
+
+**As a user, I want the sleep analysis to accurately reflect my sleep state, so that I can reliably track my sleep patterns and get useful insights each morning.**
+"
+"Dislike the dark interface theme, settings are clumsy with too many menus. Regular sync issues, tech support useless, I was emailed instructions by the operator who appeared poorly trained.",Garmin Connect,problem_report,"Here's a user story based on the provided review:
+
+**As a user, I want a clear and intuitive settings menu and a reliable syncing function so that I can easily manage my preferences and be confident my data is up-to-date.**
+
+**Optional Additions (depending on desired level of detail):**
+
+*   **...and I want knowledgeable technical support so that I can get effective assistance when I encounter issues.** (This addresses the poor support experience.)
+*   **...and I want a light interface theme option so that I am not forced to use a dark theme.** (This addresses the dislike of the dark theme, implying they want an alternative.)
+"
+The app is utterly useless as it is not recognised by my get 2 smartwatch rendering that a complete waste of money too.,Huawei Health,problem_report,"As a user with a Get 2 smartwatch, I want the app to be compatible with my device so that I can utilize its features and not feel like my purchase was a waste.
+"
+My sleep data is not getting synced from band to app. How do I fix this. It's been three days I have bought the band.,Huawei Health,problem_report,"As a user who recently purchased the band, I want my sleep data to sync from the band to the app seamlessly so that I can track my sleep patterns accurately.
+"
+Watch Faces is not loading. It always says server error even if I have a stable connection. This app is unreliable.,Huawei Health,problem_report,"As a user, I want Watch Faces to load reliably, even with a stable connection, so that I can consistently access and use the feature.
+"
+"Why my band always disconnected if i close the app,but the app its still running in background",Huawei Health,problem_report,"As a user, I want my band to remain connected even when the app is running in the background so that I can continue to receive updates/notifications without having to keep the app open.
+"
+I had give this app 5 stars but I should take back one. Where is nutrition balance score after new update? I used to decide which snack to eat by adding it and see how the score changes before eating my snacks.,Samsung Health,feature_request,"Here's the user story conversion of the review:
+
+**As a user, I want the nutrition balance score to be visible after the update so that I can continue to use it to make informed decisions about my snack choices.**
+"
+"Not working now, requires Huawei Mobile services 4.0.0 app, which is not there in Google play.",Huawei Health,problem_report,"Here's a user story based on the provided review:
+
+""As a user I want the app to be compatible with devices that don't have Huawei Mobile Services or to offer a workaround for installation on Google Play Store so that I can use the app regardless of my device's services.""
+"
+Great app. Love you can put in your food intake and stuff. Would give a 5  star if the step counting would work all the time. It doesn't work more  often than it does work so I don't have a good idea of the calories burned  and such.,Samsung Health,feature_request,"As a user, I want the step counting function to work reliably and consistently so that I can accurately track my calories burned and overall activity levels.
+"
+I found out that Garmin got hacked. And had ransomware on there system. It took a while to get back to working.,Garmin Connect,problem_report,"As a user, I want reassurance that the app is secure and resilient against cyberattacks so that my data is protected and the app remains available.
+"
+Good app. But... There should a function to sync my data,Huawei Health,feature_request,"As a user, I want the ability to sync my data so that I can access my information across different devices or after reinstalling the app.
+"
+Have bug and problem on notification panel...please check for solve this.thanks,Huawei Health,problem_report,"Here's a user story based on the review:
+
+""As a user, I want the notification panel to be free of bugs and problems so that I can reliably receive and view important updates.""
+"
+"Excellent app but 1 thing for Huawei"" Honor Band 3 device"" can install the greek lanquage in next device firmware update...?",Huawei Health,feature_request,"As a user with a Huawei Honor Band 3, I want the option to install the Greek language on my device through a firmware update so that I can use the device in my preferred language.
+"
+Very good application. Everything is alright except navigating back to main page/my day page. Also finding some settings i.e. recording smart/par min is difficult. Make setting simple . It will be awesome.,Garmin Connect,feature_request,"As a user, I want an easier way to navigate back to the main page/My Day page and a simpler settings menu, specifically for recording smart/par min, so that I can use the application more efficiently and find settings easily.
+"
+"there is no option in app for chane watch face style! i think u're limit some of option for some countries, and that is not fair! i Use the best model of huawei phone and smart watch but i can't use applicatins completely :(",Huawei Health,feature_request,"As a user with a high-end Huawei phone and smartwatch, I want to have full access to all app features, including the ability to change the watch face style, so that I can utilize the application completely and fairly, regardless of my geographic location.
+"
+"Pls add anothers wallpaper widgets that able to open app in basic page, or add/record workout directly",Samsung Health,feature_request,"As a user, I want additional wallpaper widgets that allow me to open an app in a basic page or directly add/record a workout so that I can quickly access frequently used app features and track my fitness activities from my home screen.
+"
+When everything works it is great. The weather app just suddenly decided to stop working. I didn't change anything on my phone or fitness tracker.,Garmin Connect,problem_report,"Here's a user story based on the review:
+
+User Story: ""As a user, I want the weather app to function consistently and reliably, so that I can depend on it for accurate weather information without unexpected interruptions.""
+"
+I am unable to sync this with my galaxy 3,Garmin Connect,problem_report,"As a user, I want to be able to sync the application with my Samsung Galaxy 3 device so that I can access my data on that device.
+"
+Doesn't sync properly with my Samsung watch. It used to count all my steps but there's some issue after the update. it shows 11000 steps when my watch shows 15000 steps. I looked at all the settings but couldn't fix it.,Samsung Health,problem_report,"As a user with a Samsung watch, I want the app to accurately sync my step count data with my watch, even after updates, so that I can have a reliable and consistent view of my activity.
+"
+"would be better if the recorded activities showed whether you are working in thezone or not, rather than average heart rate.",Garmin Connect,feature_request,"As a user, I want the recorded activities to show whether I am working in the zone, instead of just the average heart rate, so that I can better understand the intensity of my workouts and track my progress more effectively.
+"
+I have a problem with honor band 5-33F the new update doesn't support it,Huawei Health,problem_report,"As a user with an Honor Band 5-33F, I want the latest app update to support my device so that I can continue to use all of its features.
+"
+Why this app is giving wrong information on calories burnt so this app is not so good,Samsung Health,problem_report,"As a user, I want the app to accurately track calories burned so that I can trust the information provided and effectively manage my fitness goals.
+"
+It's back working counting steps out of nowhere..  That was all my isssue and it's resolved now which is good..,Samsung Health,problem_report,"Here are a few options, depending on what you want to emphasize:
+
+**Option 1 (Focus on resolution and positive outcome):**
+
+*   ""As a user, I want the step counter to work consistently so that I can accurately track my activity levels."" (Implies it *wasn't* working, but *is* now).
+
+**Option 2 (Focus on acknowledgement of the issue being resolved):**
+
+*   ""As a user, I want assurance that reported issues, such as the step counter not working, are addressed and resolved so that I can have confidence in the app's ongoing functionality.""
+
+**Option 3 (Focus on the bug report aspect):**
+
+*   ""As a user, I want to report issues, such as the step counter malfunctioning, so that the development team can fix them and improve the app.""
+
+**Explanation of choices:**
+
+The original review is a bit unusual because it's *already* a resolution. Usually user stories are prompted by problems that still need to be solved. The reviewer is saying ""my problem went away on its own."" Thus, these user stories are shaped to address the underlying need that was *temporarily* unmet.
+
+*   **Option 1** focuses on making sure it *stays* working.
+
+*   **Option 2** uses the resolution of the user's problem to address a sense of product stability.
+
+*   **Option 3** speaks to the need for a proper bug-reporting mechanism. Even though the user didn't report the bug in a structured way, they still, effectively, *did* file a report, and it was eventually resolved.
+
+The best choice depends on the overall goals of the user story collection. If seeking to reduce inconsistent step-counter behavior, option 1 is best. If demonstrating that bugs get resolved, option 2 is better. If wanting to prompt better user-driven bug reporting, option 3 is ideal.
+"
+Faces options / add new face etc have disappeared for my Huawei GT2. I cleared the cache etc with no luck. Please fix it asap,Huawei Health,problem_report,"As a user with a Huawei GT2 device, I want the face options and the ability to add new faces to be functional again so that I can customize my watch face as intended.
+"
+Why Would an app want to control all of my phone calls?,Samsung Health,feature_request,"Here's a user story conversion of the review:
+
+**User Story:** As a user, I want to understand why the app needs access to my phone calls so that I can feel confident about my privacy and security when using the app.
+"
+Do you actually read feedbacks? I've been reporting about the bugs in daily walking tab.,Huawei Health,problem_report,"As a user, I want the bugs in the daily walking tab to be addressed and fixed so that I can reliably track my daily walks.
+"
+won't connect until i remove app and reinstalle it very frustrating,Garmin Connect,problem_report,"As a user, I want the app to connect reliably without requiring reinstallation so that I can use the app without frustration.
+"
+I have GT watch in was the blutooth connected automaticlly..recently i hv to connect manually after while disconnected..pls fix it,Huawei Health,problem_report,"As a user with a GT watch, I want the Bluetooth connection to automatically re-establish after a disconnection, so that I don't have to manually reconnect it each time.
+"
+Not good at all. My monthly report for April shows the same stats which were there for March month. Recommended courses also does not work properly.,Huawei Health,problem_report,"Here's a user story derived from the review:
+
+""As a user, I want my monthly reports to accurately reflect current data and for the recommended courses feature to function correctly so that I can rely on the platform for up-to-date information and relevant learning suggestions.""
+"
+Last update made my Garmin S62 watch stop receiving notifications. Phone are connected correct but not getting any notifications at all,Garmin Connect,problem_report,"Here's a user story based on the review:
+
+**As a Garmin S62 user, I want to continue receiving notifications from my connected phone after app updates, so that I don't miss important information.**
+"
+"It's a great app, could be more supportive of other non Samsung devices such as scales. But otherwise love it.",Samsung Health,feature_request,"As a user, I want the app to integrate with more non-Samsung devices, like scales, so that I can have a broader and more seamless experience with my existing devices.
+"
+Nice app needs a little more things that people that have handicap problems can do,Samsung Health,feature_request,"As a user with accessibility needs, I want more features and options within the app that cater to my specific requirements so that I can use the app effectively and independently.
+"
+I don't know why the my band gets disconnects automatically. And kindly try to enable the reply option to the notifications on honor band ES that will be much appreciated 🙂,Huawei Health,problem_report,"Here's a user story conversion of the provided review:
+
+**User Story:** ""As a user, I want my band to maintain a stable connection and the ability to reply to notifications on my Honor Band ES so that I can reliably use its features and interact with notifications efficiently.""
+"
+Please enable auto pause of tracking the exercise while stopping in between an exercise and start tracking automatically once the exercise is resumed.,Huawei Health,feature_request,"As a user, I want the exercise tracking to automatically pause when I stop exercising and automatically resume when I start again, so that I can accurately record my workout data without manual intervention.
+"
+Slow start up and slow operation why do you need Id now to work?,Huawei Health,problem_report,"Here are a couple of options, focusing on different aspects of the review:
+
+**Option 1 (Focus on Performance):**
+
+As a user, I want the app to start up and operate quickly so that I can use it without frustrating delays.
+
+**Option 2 (Focus on ID Requirement):**
+
+As a user, I want to understand why I am required to provide ID now to use the app and have the option to use the app without ID if possible, so that I can have clarity and control over my privacy.
+
+**Option 3 (Combining both):**
+
+As a user, I want the app to start up and operate quickly, and understand the reason for the mandatory ID requirement so that I can use it efficiently and with confidence in my privacy.
+"
+"After updating app, it's not connecting, even it's not showing device, then i thought i have to reset it (Honor band5), then also not connecting, worst experience, worst app. Now this band became useless. You Busted why you people taking money from us.",Huawei Health,problem_report,"As a user, I want the app to reliably connect to my device (Honor Band 5) after an update, without requiring a reset, so that I can continue using my device and the app as expected.
+"
+I can't access the app appeantley my phone is rooted but is not,Samsung Health,problem_report,"As a user, I want to be able to access the app even if my phone is rooted, or falsely detected as rooted, so that I can use the app on my device.
+"
+"I enjoy the app, especially logging food. Would be nice if app would allow more than 100 My Food entries to be added/created.",Samsung Health,feature_request,"Here's a user story based on the review:
+
+**As a user, I want to be able to add more than 100 custom food entries to ""My Food"" so that I can track my frequently consumed meals and ingredients without being limited.**
+"
+Some minor issues found in your app.  If i shake my phone it count steps.  Plz fix this issue and it would be a good app for health.,Samsung Health,problem_report,"As a user, I want the app to prevent unintentional step counting when I shake my phone so that my activity data is accurate.
+"
+Developers please remove the mobile as a step count source . This app is ruining the accuracy of the wonderful honor band 5 . We only want to use Band as the step source .... Please make this change,Huawei Health,feature_request,"As a user with a Honor Band 5, I want the app to **only** use the band as a step count source, so that I can ensure accurate step tracking and avoid discrepancies caused by mobile phone data.
+"
+Didn't upload my sleep data since January 1 2020 from my Huawei band 4,Huawei Health,problem_report,"As a user with a Huawei Band 4, I want my sleep data to be correctly synced and uploaded from January 1, 2020 onwards so that I can track my sleep patterns accurately.
+"
+"FIXED SD CARD ISSUE: App won't install stuck on ""downloading"" with no installation bar or anything in the notification tray  Software eject SD card to fix for some reason it only affected the installation of this app",Garmin Connect,problem_report,"As a user, I want the app to install correctly even when an SD card is present and active, so that I can install and use the app without having to eject or disable my SD card.
+"
+Only complaint is when watch disconnects' becasue i got too far from phone (30+') it wont automatically reconnect...other then that still learning so hope to rate higher then 3☆ later,Garmin Connect,problem_report,"As a user, I want my watch to automatically reconnect to my phone when it comes back within range after a disconnection, so that I don't have to manually reconnect it.
+"
+Why all the foods are conserved food.I cook in home.,Samsung Health,feature_request,"Here's a possible conversion of the review into a user story, keeping in mind the slightly unclear language:
+
+**Understanding the Review:** It sounds like the user is complaining that all the food offered is pre-made or preserved/canned, and that they would prefer fresh, home-cooked options.
+
+**User Story:**
+
+*   **As a user, I want fresh, home-cooked food options to be offered, instead of only preserved or pre-made meals, so that I can have healthier and more appealing choices.**"
+"App looks good but the settings don't take effect immediately, setting profile specific information",Huawei Health,feature_request,"As a user, I want profile settings to apply immediately after I save them, so that I can see the changes I've made without delay.
+"
+"the app don't pair with my forerunner 35 on Huawei P8 lite 2017 and android 7 whereas the previous version did, very frustrating?",Garmin Connect,problem_report,"As a user with a Huawei P8 lite 2017 running Android 7 and a Garmin Forerunner 35, I want the app to pair successfully with my device like the previous version did, so that I can continue tracking my data without frustration.
+"
+"Great app. MAJOR deficiency - it can't export GPX files, or sync with Strava. Then it would get a higher rating.",Huawei Health,feature_request,"Here's the user story derived from the review:
+
+**As a user, I want the ability to export GPX files and sync data with Strava so that I can easily share my activity data with other platforms I use and get more value from the app.**
+"
+Been able to track all my activity if I remember to carry my phone .  It doesn't track the 4 to 5 hours a day that I'm cashiering at work...lot if movement and steps but nothing really registers,Samsung Health,problem_report,"As a user, I want the app to accurately track my activity, even when I'm not actively using my phone (e.g., during work hours with significant movement), so that I can get a complete and accurate overview of my daily activity levels.
+"
+Improve ur app man and add some more features to smartwatch ui it getting boring add camera shutter and voice assistant and add feature to stop continues heart rate monitor change navigation animation and add drink water reminder etc,Huawei Health,feature_request,"Here's a breakdown of the review and a converted user story:
+
+**Analyzing the Review:**
+
+The review is a bit rambling, but we can break down the requests into distinct features for the smartwatch UI:
+
+*   **Camera Shutter Control:** Control the phone's camera from the watch.
+*   **Voice Assistant Integration:** Use a voice assistant (like Google Assistant or Siri) through the watch.
+*   **Heart Rate Monitor Customization:** Stop continuous heart rate monitoring to improve battery life or for privacy.
+*   **Navigation Animation Changes:** Modify the UI animations to enhance the watch experience.
+*   **Drink Water Reminder:** Get prompted to drink water throughout the day.
+
+**User Story:**
+
+Here's a user story encompassing all of these improvement suggestions:
+
+""As a smartwatch user, I want an enhanced set of features including camera shutter control, voice assistant integration, customizable heart rate monitoring, improved navigation animations, and a drink water reminder, so that I can have a more useful and engaging smartwatch experience.""
+
+**Optional: Breaking Down into Separate Stories:**
+
+You could also break this into several smaller user stories for better management:
+
+*   ""As a smartwatch user, I want camera shutter control from my watch so I can easily take photos remotely.""
+*   ""As a smartwatch user, I want voice assistant integration on my watch so I can use voice commands for various tasks.""
+*   ""As a smartwatch user, I want the ability to disable continuous heart rate monitoring so I can conserve battery life.""
+*   ""As a smartwatch user, I want improved navigation animations on my watch so I have a more visually appealing experience.""
+*   ""As a smartwatch user, I want a drink water reminder on my watch so I can stay hydrated throughout the day.""
+
+The choice of whether to use one large story or several smaller ones depends on the project's workflow and prioritization strategy.
+
+"
+Why did you take away the average weight stats for weekly and monthly. Now I can only see daily. Worst update ever. Now I will have to find another app with those features!,Samsung Health,feature_request,"Here's a user story conversion of the review:
+
+**As a user, I want to be able to view my average weight statistics for weekly and monthly periods, so that I can track my weight trends over time as I did before the update.**
+"
+The sleep app is not updating on my android phone. It suddenly stopped. The watch Huawei GT 2 is good. But there seems to be bug in the App.,Huawei Health,problem_report,"As an Android user with a Huawei GT 2 watch, I want the sleep app on my Android phone to consistently sync data so that I can accurately track my sleep patterns.
+"
+Using vivosmart HR just wish when i manually add my basketball games (not allowed to wear watch) that it could estimate steps and calories burnt with the data I input. Also doesnt sometimes sync fails if I have been using another bluetooth device,Garmin Connect,problem_report,"Here's a breakdown of the review and the resulting user story:
+
+**Understanding the Review**
+
+The review has two parts:
+
+*   **Basketball Game Input:** The user wants the vivosmart HR to estimate steps and calories burned when manually adding basketball games, compensating for the fact they can't wear the watch during the activity.
+*   **Sync Issues:** The user experiences sync failures when using other Bluetooth devices.
+
+**Proposed User Story:**
+
+As a user, I want the ability for the app to estimate steps and calories burned when I manually log a basketball game so that I can accurately track my activity even when I cannot wear my vivosmart HR.
+
+**Additional User Story (Splitting the review into two):**
+
+As a user, I want the vivosmart HR to reliably sync with my device even when I've been using other Bluetooth devices so that my activity data is always up-to-date.
+
+**Explanation of Choices:**
+
+*   The primary focus of the review is the estimation of steps/calories for manually logged activities.
+* Creating two stories allows for prioritization and separate tracking of the two distinct issues.
+
+**Why split them?**
+
+Splitting the review into two user stories is often beneficial. Here's why:
+
+*   **Different Development Efforts:** The basketball activity estimation and resolving Bluetooth sync conflicts likely require different development expertise and code changes.
+*   **Prioritization:** One issue might be more important or easier to fix than the other. Separate stories allow the product owner to prioritize them independently.
+*   **Tracking Progress:** When addressing the sync issue is completed it can be marked as completed, even if the basketball activity estimation is still in progress. This provides a better sense of progress.
+
+"
+Used my vivofit for over a year and app worked just fine but now since recent updates I can no longer synch my vivofit to any of my mobile devices.  If this continues I will move on to another brand of fitness tracker.,Garmin Connect,problem_report,"As a user, I want the app to reliably sync with my Vivofit fitness tracker so that I can continue tracking my activity data and remain a loyal customer.
+"
+Hello. Auto pause is active in the settings but unfortunately when i stop cicling the time counter didn't stop. And i have to pause manually. This is boring.,Huawei Health,problem_report,"As a user, I want the auto-pause feature to automatically pause the time counter when I stop cycling, so that I don't have to manually pause it and the tracking of my activity is more accurate.
+"
+The unit does not allow changing to S.I. units (kJ instead of kcal) and has only U.S. food preprogrammed. The option to enter your own food is gone since the latest update. It is pretty useless now. And Samsung never replies to questions or suggestions.,Samsung Health,feature_request,"Here's a user story based on the review:
+
+**As a user, I want the ability to switch between S.I. (kJ) and U.S. (kcal) units and the ability to input my own food data so that I can accurately track my caloric intake using the unit regardless of location or particular diet.**
+"
+"This is a bad app, it doesn't count your steps correctly and it closes by itself.",Samsung Health,problem_report,"As a user, I want the app to accurately track my steps and remain stable so that I can rely on it for fitness tracking.
+"
+Don't like the update the graphics look more messy and the last version was  a bit more user friendly. shame as app is great .and now only shows current  year in total step count (my data) and seem to have lost total count when  using app,Huawei Health,feature_request,"Here's a user story derived from the review:
+
+**As a user, I want the app's graphics to be clear and intuitive, and I want to retain historical step count data, so that I can easily understand the app's information and track my progress consistently.**
+"
+Really needs a Barcode scanner for food input! Using Myfitnesspal mostly because of that,Samsung Health,feature_request,"As a user, I want a barcode scanner for food input so that I can quickly and easily log my meals and reduce the time I spend manually entering information.
+"
+"WhatsApp calls on my Huawei watch GT2-C56 is shown & can be answered on iOS but not on Android. Appreciate, if this bug can be fixed on the next update in order for better experience with Android devices.",Huawei Health,problem_report,"As a user with a Huawei Watch GT2-C56 and an Android device, I want to be able to answer WhatsApp calls on my watch, just like I can when paired with iOS, so that I have a consistent and improved user experience regardless of my phone's operating system.
+"
+Waste app. Not able to login in one Plus 6t mobile. Thinking why i brought honor band.,Huawei Health,problem_report,"As a user with a OnePlus 6T, I want to be able to log in to the app so that I can use the app's features.
+"
+This is spy app. Request to access too much thing Disconnect many time and do not auto reconnect.,Huawei Health,problem_report,"Here's the converted user story:
+
+**""As a user, I want the app to request only necessary permissions and reliably maintain a connection so that I can trust its privacy and use it without interruptions.""**
+"
+I am facing problem in band whenever somebody calls it shows only incoming call instated of name of caller.,Huawei Health,feature_request,"As a user, I want the band to display the caller's name instead of just indicating an incoming call so that I can easily identify who is calling.
+"
+Two step and using phone features for a health app!? No thanks.,Samsung Health,feature_request,"As a user, I want a simpler or alternative login/authentication method that doesn't rely on two-step verification and phone features so that I can easily and securely access the app.
+"
+"Ever since the recent update my step count has decline by at least 10% walking the same journey. Have cleared cache and restarted phone, but same result.",Samsung Health,problem_report,"As a user, I want the step count to be accurate after app updates so that I can reliably track my activity levels.
+"
+I like the app in general but the widget is annoying. I mean it's way to big for the information displayed. It was somewhat understandable when I had my note 8 with heart rate but now with S20 I should be able to resize it.,Samsung Health,feature_request,"As a user, I want to be able to resize the app widget so that it is proportional to the information displayed on my screen and appropriate for my device.
+"
+Not connecting with my Poco F1 phone. It's showing that I need to update the App. But it is already updated. And why I should go to update the app from Hawaii App store. 🤷 Why there is no any update in Google Play store.,Huawei Health,problem_report,"Here's a user story conversion of the provided review:
+
+**User Story:** As a user with a Poco F1 phone, I want the app to connect and function properly even though the app is already updated through the Google Play Store, so that I can use the app without encountering errors or being prompted to update from an alternative (and potentially incorrect) app store.
+"
+Cannot sync with Google Fit. The app crashes randomly. Update the app please otherwise your watches are useless.,Huawei Health,problem_report,"Here's a user story based on the review:
+
+**As a user, I want the app to reliably sync with Google Fit and be stable so that I can accurately track my fitness data and use my watch without frustration.**
+"
+Love this app and all the features. It works great since my phone comes with it. My only complaint is that I wish there was a widget for the food tracker I need the app. The only widget they have available is for counting steps.,Samsung Health,feature_request,"Here's a user story based on the review:
+
+""As a user, I want a widget for the food tracker feature so that I can quickly and easily log my food intake without having to open the app.""
+"
+"I don't want to use this app so I uninstalled it a few days ago and turned off the auto-update feature, but I just found it reinstalling itself. Not impressed.",Samsung Health,problem_report,"Here's a user story derived from the provided review:
+
+""As a user who has uninstalled the app and disabled auto-updates, I want the app to remain uninstalled so that I have control over the software on my device and my preferences are respected.""
+"
+All of a sudden not working saying error due to rooted phone. tried clearing cache uninstall and install again but still the same problem. so irritating pops up randomly all the time,Samsung Health,problem_report,"As a user with a rooted phone, I want the app to either function correctly or provide a clear and informative message, instead of a persistent and unhelpful error message, so that I can continue to use the app without frustration.
+"
+"Data sharing needs to be fixed, my weight and activity data doesn't appear properly in Google fit. It should have more support for other activities like indoor cycling which is my case (the Huawei band has this listed as an activity, but not the app)",Huawei Health,problem_report,"Here's a user story based on the provided review:
+
+**User Story:** As a user, I want my weight and activity data to sync correctly with Google Fit and support for indoor cycling tracking, so that I can have a complete and accurate view of my health and fitness data across all my platforms.
+"
+Huawei watch FIT -1E4 is not pairing with samsung mobile.Please suggest ...,Huawei Health,problem_report,"Here's a user story derived from the review:
+
+""As a user with a Samsung mobile device and a Huawei Watch FIT -1E4, I want to be able to successfully pair my watch with my phone so that I can use all the features of my device and receive notifications.""
+"
+"The honor magic watch 2 is disconnected from the phone Bluetooth every single day. Besides, when I want to make a phone call in my car, it won't use the car Bluetooth but the watch Bluetooth.",Huawei Health,problem_report,"Here's a possible user story based on the review:
+
+**As a user, I want the Honor Magic Watch 2 to maintain a consistent and reliable Bluetooth connection with my phone so that I don't experience daily disconnections.**
+
+**And, as a user, I want the ability to prioritize my car's Bluetooth connection for phone calls when connected to both the watch and the car so that I can use the car's hands-free system as intended.**
+"
+Asking mobile services 4.0 or more. Whereas available version on playstore is 3.0,Huawei Health,problem_report,"As a user, I want the app to be compatible with mobile services version 3.0 so that it can function correctly on my device.
+"
+"Very good for track your daily activities, but you can't challenge friend for more activities than walking.",Samsung Health,feature_request,"As a user, I want the ability to challenge my friends to more activities beyond just walking so that I can have more competitive and varied experiences tracking my daily activities.
+"
+"I Can't pair Huawei Watch GT 2e-626. Shows ""Device not supported"".",Huawei Health,problem_report,"As a user, I want the app to support pairing with my Huawei Watch GT 2e-626 so that I can connect and use my device with the app's features.
+"
+I had this same app on my old phone and it would check my oxygen as well as my pulse. Now that I have a new phone it doesn't show either! Ugh this is very aggravating,Samsung Health,problem_report,"As a user, I want the app to measure and display my oxygen levels and pulse, like it did on my previous phone, so that I can continue to monitor my health metrics.
+"
+I now battle to sync my watch with my phone I have to disconnect and set up every time. why is there no pilates option on the app? kindly do an update for this,Garmin Connect,feature_request,"Here's the user story conversion:
+
+**User Story 1 (Sync Issue):** As a user, I want my watch to sync reliably with my phone so that I don't have to constantly disconnect and set up the connection again.
+
+**User Story 2 (Pilates Option):** As a user, I want a Pilates option available on the app so that I can track my Pilates workouts.
+"
+Please include Nigeria food in your list. Without it it would not be possible to rate the food consumption.,Samsung Health,feature_request,"As a user, I want Nigerian cuisine included in the food list so that I can accurately rate my food consumption.
+"
+"It is a really good app, but when I changed my phone device, I lost everything (my progress, my food, my steps...) even when I have an account linked to this app.  I would have given 5 stars if this didn't happen. What a pity.",Samsung Health,problem_report,"As a user, I want my progress and data to be synchronized and restored when I switch to a new device and log in with my existing account so that I don't lose my data and can continue where I left off.
+"
+"Sleep infos not good, naps are not registered. The rest is good.",Garmin Connect,problem_report,"As a user, I want the app to accurately track and display sleep information, including naps, so that I can rely on it for a complete sleep analysis.
+"
+Downloaded for Honor band 5 . But on opening the app it notifies that I'll require a more recent version of Huawei mobile services (4.0 or later) for it to work properly and the latest version is available on Huawei app gallery. I am using a Samsung device.,Huawei Health,problem_report,"As a user with a non-Huawei device (e.g., Samsung), I want the app to be compatible without requiring Huawei Mobile Services or directing me to the Huawei App Gallery, so that I can use the app without unnecessary dependencies on a specific brand's ecosystem.
+"
+Works fine with my honor Band 5. But it has abusive permission requirements. Why the heck you need my contacts and my phone identity??? Why we have to log in? Why we can't just use it offline?,Huawei Health,feature_request,"Here's a user story derived from the review, broken down into multiple user stories for clarity:
+
+*   **As a user, I want to use the app without granting access to my contacts and phone identity so that I can protect my privacy.**
+*   **As a user, I want to use the app without needing to log in so that I can quickly access its core functionality.**
+*   **As a user, I want to use the app offline so that I can access its features even without an internet connection.**
+"
+"The app in my S6 has more features, where is the heart rate and spo2  measures now?",Samsung Health,feature_request,"Here's the conversion of the review into a user story:
+
+User Story: ""As a user with a device newer than an S6, I want to have heart rate and SpO2 measurement features available in the app, so that I can continue to track my health metrics as I did on my older device.""
+"
+Where is the oxygen monitor that was advertised on the Samsung galaxy watch 3? That was half the reason I bought it...,Samsung Health,feature_request,"Here's a conversion of the review into a user story:
+
+**User Story:** As a user with a Samsung Galaxy Watch 3, I want to be able to easily locate and use the advertised oxygen monitoring feature so that I can utilize the full functionality I expected when purchasing the device.
+"
+"First use - update failed, cannot add smart band. Device is useless. Great gift, lamers",Huawei Health,problem_report,"As a user, I want the initial setup and smart band connection to work reliably so that I can immediately use the device after purchase.
+"
+Requirement for Huawei mobile services has ruined the Health app and won't allow access,Huawei Health,problem_report,"Here's a user story based on the review:
+
+**As a user, I want to be able to use the Health app independently of Huawei Mobile Services so that I can access my health data and features regardless of HMS availability.**
+"
+"Sleep tracking stopped syncing on new years eve. Don't know why, but since 1-1 2020 it doesn't work anymore. Fix this please",Huawei Health,problem_report,"As a user, I want my sleep tracking data to sync consistently, including after significant dates like New Year's Eve, so that I can accurately monitor my sleep patterns and progress.
+"
+"So many watch faces to choose, but none of them are digital WITH seconds counter. Even the simplest design would be sufficient. Otherwise works well, not intrusive and overall nice app.",Huawei Health,feature_request,"As a user, I want a digital watch face option that includes a seconds counter, even with a simple design, so that I can easily see the current time with seconds displayed.
+"
+"Excellent 👌 App. Would be 5 stars if there were paid watch faces and more free ones..Also, limited exercise options available compared to those on Huawei GT2 & GT2 Pro watch",Huawei Health,feature_request,"Here are a few options for user stories based on that review, ranging from more specific to more general:
+
+**Option 1 (Most Specific):**
+
+*   ""As a user, I want to have access to paid watch faces and a wider selection of free watch faces, so that I can personalize my device.""
+*   ""As a user, I want more diverse exercise tracking options that are comparable to those offered on the Huawei GT2 & GT2 Pro watches, so that I can accurately track my workouts.""
+
+**Option 2 (Slightly More General, Combining Requests):**
+
+*   ""As a user, I want more watch face customization options (both paid and free) and a wider variety of exercise tracking options so that I can better personalize my device and accurately track my fitness activities.""
+
+**Option 3 (Very High-Level):**
+
+*   ""As a user, I want expanded personalization and fitness tracking features so that I can get the most out of my device.""
+
+**Explanation of Choices:**
+
+*   **Option 1** breaks down the review into two separate user stories, which is sometimes better for prioritization and development. You can address the watch faces separately from the exercise options.
+*   **Option 2** groups the two requests into one story. This might be suitable if you think the development effort for both is related or equally important.
+*   **Option 3** offers a very broad goal. It is great as an overarching concept, but it ultimately needs to be broken down as the requirements gathering and estimations are gathered. It's often used at the beginning of a sprint to convey a common goal.
+
+Which option is best depends on your specific project and how you want to manage the development process. I would recommend **Option 1** if you want to break down the task into more manageable pieces and tackle each aspect independently. However, if the implementation of exercise options or watch face customization require one another, I'd recommend **Option 2.**
+"
+"You are missing one component that is very user friendly. Being able to scan barcodes, so that entering a meal or snack is quicker.",Samsung Health,feature_request,"As a user, I want the ability to scan barcodes for food items so that I can quickly and easily log my meals and snacks.
+"
+Great app. A scanner feature would be useful for enter food calories..,Samsung Health,feature_request,"As a user, I want a scanner feature to be able to easily input the calorie information of food items so that I can track my diet more efficiently.
+"
+Why is there no option to find my band? Why can't open while we're are offline,Huawei Health,feature_request,"Here's the conversion of the review into user stories:
+
+**User Story 1 (Addressing the band search):**
+
+*   ""As a user, I want to be able to search for and find my band within the app so that I can easily connect with their content and performances.""
+
+**User Story 2 (Addressing offline access):**
+
+*   ""As a user, I want to be able to access certain features or content of the app offline so that I can use it even when I don't have an internet connection.""
+"
+It won't let me connect my watch to my tablet.,Garmin Connect,problem_report,"As a user, I want to be able to connect my smartwatch to my tablet so that I can use the app across multiple devices.
+"
+Not very accurate will not sink - MyFitnessPal would not buy again. Mobile app error all the time.,Garmin Connect,problem_report,"Here's a possible user story based on the provided review:
+
+**As a user, I want the mobile app to accurately track my fitness data and function reliably so that I can trust its information and maintain a consistent record of my progress.**
+
+**Here's a breakdown of why this works:**
+
+*   **""Not very accurate"":**  This points to a problem with the app's data tracking capabilities. ""Accurately track my fitness data"" addresses this.
+*   **""Will not sink - MyFitnessPal would not buy again"":**  This indicates dissatisfaction and a lack of value. ""Trust its information"" speaks to regaining trust in the app's reliability.
+*   **""Mobile app error all the time"":**  This highlights instability and constant technical issues. ""Function reliably"" directly counters this problem.
+*   **""Maintain a consistent record of my progress"":** This captures what the user wants to use the app for while avoiding any technical words.
+
+This user story focuses on the core problem from the user's perspective: the app is inaccurate and unreliable, leading to a poor user experience.
+"
+"Heart Rate monitoring has been made redundant. Can't see it in real time. Post the latest update, this has really lost its utility.",Samsung Health,feature_request,"As a user, I want the heart rate monitoring feature to display data in real-time so that I can effectively track my heart rate.
+"
+When incoming call arrives on my band it displays half number instead of full number (honor band 6). Please update as soon as possible and if i turn off location band automatically got disconnected.,Huawei Health,problem_report,"Here's a possible user story based on the review:
+
+**As a user with an Honor Band 6, I want the band to display the full incoming call number so that I can identify the caller correctly.**
+
+**And, as a user, I want my band to remain connected even when location services are turned off on my phone, so that the band can function as intended without requiring location tracking.**
+"
+You got rid of the one measurement I used. I have severe asthma and used the oxygen measurements for my doctor and myself. The stress one takes much longer and doesn't track it...,Samsung Health,feature_request,"Here's a user story conversion of the provided review:
+
+**User Story:** ""As a user with asthma, I want the oxygen measurement feature restored so that I can easily track and share my oxygen levels with my doctor.""
+"
+"Always shows as running in the background since latest update, please fix! even after latest update says it is using battery",Samsung Health,problem_report,"As a user, I want the app to stop running in the background when I'm not actively using it so that it doesn't drain my battery unnecessarily.
+"
+"Excellent for cycling, wizh it had greater flexibility in logging strength workouts, unable to write in different exercises",Garmin Connect,feature_request,"As a user who cycles and does strength workouts, I want greater flexibility in logging strength workouts, including the ability to write in different exercises, so that I can accurately track all my fitness activities in one place.
+"
+"Bluetooth connection getting lost, not loading with recent update. No login was required earlier, now it's asking for that, don't understand the logic.",Huawei Health,problem_report,"Here's the user story conversion of the review:
+
+**Option 1 (Focus on connection and loading issues):**
+
+""As a user, I want the app to maintain a stable Bluetooth connection and load correctly after updates so that I can use the app without interruption.""
+
+**Option 2 (Focus on login requirement):**
+
+""As a user, I want the app to explain why a login is now required after the update (or revert to the previous no-login behavior if possible), so that I understand the security rationale and am not confused by the change.""
+
+**Option 3 (Combined, but possibly too broad):**
+
+""As a user, I want the app to maintain its core functionality (stable Bluetooth connection, proper loading) and avoid unexpected changes in user experience (like requiring a login without explanation) after updates, so that I can continue using the app reliably and without frustration.""
+
+**Explanation of Choices:**
+
+*   **Option 1** addresses the immediate problem of the app not working.
+*   **Option 2** addresses the user's confusion and frustration with the new login requirement.  It's important to understand *why* the login was added before simply removing it again.
+*   **Option 3** combines the issues, but might be too broad for a single user story. It could be better to break it down into smaller, more manageable stories.
+
+The best option depends on the priorities and goals of the product team. If the Bluetooth and loading issues are the most critical, Option 1 is best. If the team wants to address user confusion and trust, Option 2 is better.
+"
+"Pretty good app. Keeps me honest. Could always use more food/ nutrition counts, exercises and would like to see it get a bit smarter. Lots of repetitive messages.",Samsung Health,feature_request,"Here are a few options, breaking down the review into separate user stories:
+
+**Option 1 (Breaking down into multiple stories):**
+
+*   **As a user, I want a wider range of food and nutrition information available so that I can track my diet more accurately.**
+*   **As a user, I want a wider variety of exercises available in the app so that I can diversify my workouts.**
+*   **As a user, I want the app to provide more personalized and intelligent recommendations so that it can be more helpful.**
+*   **As a user, I want to receive less repetitive messages so that the app doesn't become annoying.**
+
+**Option 2 (Trying to capture the essence in one story):**
+
+*   **As a user, I want the app to offer more comprehensive and intelligent features, including expanded nutrition information, exercise options, and reduced message redundancy, so that it can be more useful and less repetitive.**
+
+**Explanation for Choices:**
+
+*   **Multiple Stories:** The first option breaks down the review into its distinct requests.  This is often the preferred approach in agile development because it allows for easier prioritization and tracking of individual features.
+*   **Single Story:** The second option tries to capture the gist of the review in one longer story. This might be useful for initial planning, but it is generally better to break it down later for implementation.
+
+The best choice depends on the level of detail required at this stage of the development process. If you're just gathering requirements, the single story might suffice. If you're planning sprints, the multiple stories are better.
+"
+I do love this app. Would be better if Fitbit was a partner app as i feel  that would track my steps better as my phone isnt on me contantly,Samsung Health,feature_request,"As a user, I want Fitbit integration so that my steps and activity are tracked more accurately, even when my phone isn't on me.
+"
+Update ruined everything. My data is lost. Rubbish syncing and never updates my steps anymore. Disconnects every few minutes and counts nap when I'm awake. I thought it's firmware issue but turns it it's just this garbage app.,Huawei Health,problem_report,"Here's a possible user story based on the review:
+
+**As a user, I want the app to reliably sync my data and accurately track my steps, and to maintain a stable connection with my device, so that I can trust the app to monitor my activity and progress accurately.**
+
+**Explanation of Choices:**
+
+*   **Focus on Core Functionality:** The review highlights broken core functionality (syncing, step counting, connection stability). The user story prioritizes restoring these.
+*   **Addresses Multiple Issues:** The story encompasses data loss concerns, incorrect step counting, and connection problems.
+*   **Emphasizes Trust and Accuracy:** Because the purpose is to accurately monitor, the user needs to trust the data.
+"
+step count is not correct but it was never a issue for me if it is 2 - 4% but in running its sarting with 10 to 15 % less secount while running scren geting off as normal app which is irritating.,Huawei Health,problem_report,"Here are a couple of options for converting the review into a user story. The first is a more comprehensive breakdown, while the second focuses on the core issues:
+
+**Option 1 (More Detailed):**
+
+""As a user, I want the step count accuracy to be improved, especially during running activities where the current count is 10-15% lower than reality. Additionally, I want the screen to remain active while I'm running so I can easily see my progress without the screen turning off.""
+
+**Option 2 (Focus on Core Issues):**
+
+""As a user, I want more accurate step tracking, especially during running activities, and for the screen to stay on during my run so I can easily monitor my progress.""
+"
+I work a 12 hr shift and i walk 10 of those hours.  This doesn't count all of my steps. Not happy about the way it shows your rewards. Won't let you see each reward. Before update was better. Not excited about using this anymore.,Samsung Health,feature_request,"Here's a breakdown of the review and a resulting user story, along with some alternate user stories focusing on specific pain points:
+
+**Breakdown of the Review:**
+
+*   **Problem 1:** Inaccurate Step Tracking (specifically during long, active shifts).
+*   **Problem 2:** Poor Rewards Display (can't see details of each reward).
+*   **Problem 3:** Regression - Functionality was better before the update.
+*   **Overall Sentiment:** Dissatisfied, considering abandoning the app.
+
+**Comprehensive User Story:**
+
+""As a user with a physically demanding job, I want the app to accurately track my steps, even during extended periods of walking, and to provide a clear and detailed view of my earned rewards, so that I can be motivated and confident in the app's tracking capabilities.""
+
+**Alternate User Stories (Focusing on individual issues):**
+
+*   **Step Tracking Focus:** ""As a user who walks a lot during my workday, I want the app to accurately capture all my steps, even during long periods of continuous activity, so that I can get the full credit for my efforts and be motivated to keep using the app.""
+
+*   **Rewards Display Focus:** ""As a user, I want to be able to easily view the details of each reward I've earned, so that I understand their value and am motivated to continue earning rewards.""
+
+*    **Regression Focus:** ""As a user, I want updates to improve the usability, not worsen it, so the application provides the same or better functionality as it had before."" 
+
+**Why these are good user stories:**
+
+*   **As a... I want... so that... format:** This is the standard user story format.
+*   **Focus on the User:**  They start with who the user is.
+*   **Focus on the Need:** They describe *what* the user wants to do.
+*   **Focus on the Benefit:** They explain *why* the user wants to do it (the value they get).  This is especially important, as it helps the developers prioritize features.
+*   **Actionable:**  They are clear enough that developers can start thinking about how to implement a solution.
+
+The best approach would likely be to break the original review into these multiple, more focused user stories. This will allow the development team to address each problem individually and prioritize them based on their overall impact.
+"
+"Did not want this. Cannot delete it. Cannot even turn out off. Google, block this app!",Samsung Health,problem_report,"Here's a possible user story derived from the review:
+
+**As a user, I want to be able to uninstall this app, or at least disable it, so that I am not forced to use or see an app that I don't want.**
+"
+"This was a great app however no update in recent times, need auto pause feature Most of the apps support auto pause n start feature, will appreciate more sporty interface.",Huawei Health,feature_request,"Here's the user story conversion of the review:
+
+""As a user, I want the app to have an auto-pause feature, and a more sporty interface, so that I can have a modern and convenient experience while using the app during activities.""
+"
+After the last update I cannot pair my weight scale with the app. It stops at a message like :Huawei Health wants to access servers in Mainland to download files... Etc. Even if I press allow its not working and the message appears again and again.,Huawei Health,problem_report,"Here's a user story derived from the review you provided:
+
+**As a user, I want to be able to reliably pair my weight scale with the app after the latest update, so that I can continue to track my fitness data seamlessly.**
+"
+"It's great now. Love. Just wish you could pause the run instead of stopping it, or is there a way to pause without stopping it?",Garmin Connect,feature_request,"As a user, I want to be able to pause a run instead of stopping it so that I can temporarily interrupt my activity without losing my progress.
+"
+App can't connect to the watch. Since the last update it is even worse.,Garmin Connect,problem_report,"As a user, I want the app to reliably connect to my watch so that I can use all the intended features, and the app's connectivity should be improved, not degraded, with each update.
+"
+"Works great with z5 and my forerunner 230. No issues with connection between the two at all. Sometimes sleep tracking can be a little inaccurate but not by much. There has never been a problem syncing with strava, can't comment on mapmyfitness unfortunately as I don't use it yet.",Garmin Connect,feature_request,"Here's a user story converted from the given review:
+
+**As a user, I want the app to seamlessly connect and sync data with my devices (e.g., Z5 and Forerunner 230) and platforms (e.g., Strava) so that I can easily track and analyze my activity data.**
+"
+Since the latest update my device won't connect with my phone,Garmin Connect,problem_report,"As a user, I want my device to connect with my phone after app updates so that I can continue using all the app's functionality.
+"
+Update: new update fixed it Old: Your update just made Health device useless,Huawei Health,problem_report,"Here are a few options for converting the review into a user story, depending on the specific issue it is addressing:
+
+**Option 1 (Focus on functionality):**
+
+*   **As a user, I want the app to be compatible with my Health device after updates so that my existing data and functionality remain intact.**
+
+**Option 2 (Focus on troubleshooting):**
+
+*   **As a user, I want updates to be thoroughly tested before release so that updates solve problems and do not create new problems with my device's compatibility.**
+
+**Option 3 (Focus on communication):**
+
+*   **As a user, I want clear communication about compatibility issues before updates are installed so that I can manage my expectations and avoid disruption to my device functionality.**
+
+I would suggest choosing the option that best reflects the root cause of the problem the user is describing."

@@ -1,25 +1,25 @@
 import pandas as pd
 
-# Load the CSV file
-file_path = r'D:\Research\Thesis\OLD\Dataset\filtered.csv'
-df = pd.read_csv(file_path)
+# File paths
+merged_path = "/Users/shadmansakib/Documents/Thesis/OLD/Dataset/merged_final.csv"
+filtered_200_path = "/Users/shadmansakib/Desktop/filtered_200.csv"
+output_path = "merged_first_1000.csv"
 
-# View a sample of the app column to understand values (optional)
-# print(df['app'].unique())
+# Load datasets
+merged_df = pd.read_csv(merged_path)
+filtered_200_df = pd.read_csv(filtered_200_path).head(200)
 
-# Count the occurrences of each app
-app_counts = df['app'].value_counts()
+# Get first 1000 rows from merged
+first_1000_df = merged_df.head(1000)
 
-# Filter counts for Samsung, Huawei, and Garmin
-target_apps = ['Samsung', 'Huawei', 'Garmin']
-filtered_counts = app_counts[app_counts.index.str.contains('|'.join(target_apps), case=False)]
+# Save to new file
+first_1000_df.to_csv(output_path, index=False)
+print(f"Saved first 1000 rows to: {output_path}")
 
-# Calculate total and percentage
-total_reviews = filtered_counts.sum()
-distribution = (filtered_counts / total_reviews) * 100
+# Check if all 200 app_review values are in the new file
+missing = filtered_200_df[~filtered_200_df['app_review'].isin(first_1000_df['app_review'])]
 
-# Display the results
-print("Review Count:")
-print(filtered_counts)
-print("\nPercentage Distribution:")
-print(distribution.round(2))
+if missing.empty:
+    print("✅ All 200 reviews from filtered_200.csv are present in merged_first_1000.csv.")
+else:
+    print(f"❌ {len(missing)} reviews from filtered_200.csv are missing in merged_first_1000.csv.")
