@@ -1,0 +1,31 @@
+MOVED: /Users/shadmansakib/Documents/Thesis/organize.py → /Users/shadmansakib/Documents/Thesis/research-project/src
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/synthesized_reviews.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/code.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/cleaned_sampled_reviews.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/code_COT_test.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/sort.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/tokenized_reviews.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/new_file.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/prompt_evaluation_results.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/dp-1-mistral-implementation.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/token_count.py → /Users/shadmansakib/Documents/Thesis/research-project/src
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/dp-1-mistral-implementation_latest.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/sorted_prompt_evaluation_results.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/metrics_results.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/synth.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/llama_test.py → /Users/shadmansakib/Documents/Thesis/research-project/src
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/prompt_selection.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/reordered_results.csv → /Users/shadmansakib/Documents/Thesis/research-project/data/raw
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/llama-3-1-dp-2.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/prompt_analysis.ipynb → /Users/shadmansakib/Documents/Thesis/research-project/notebooks
+MOVED: /Users/shadmansakib/Documents/Thesis/OLD/llama_zero_test.py → /Users/shadmansakib/Documents/Thesis/research-project/src
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/User_Stories_and_Natural_Language_Processing_A_Systematic_Literature_Review (1).pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Using_Large_Language_Models_for_Commit _Message_Generation_A Preliminary Study.pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Classification of App Reviews for Requirements Engineering using Deep Learning Models (1) (1).pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Mining and searching app reviews for requirements engineering Evaluation and replication studies (1).pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/app_review_mining_with_llm.pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Casper.pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Using App Reviews for Competitive AnalysisTool Support (1).pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Automated User Story Generation with Test Case Specification Using Large Language Model.pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Temporal dynamics of requirements engineering from mobile app reviews (1).pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
+MOVED: /Users/shadmansakib/Documents/Thesis/relevant_papers/Using Large Language Models for Commit Message Generation- A Preliminary Study.pdf → /Users/shadmansakib/Documents/Thesis/research-project/docs/relevant_papers
