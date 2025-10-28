@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+secrets/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.log
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Local
+logs/*.log
