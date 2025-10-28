@@ -50,7 +50,7 @@ Thesis/
 
 ## Research Pipeline
 
-![Pipeline Overview](/misc/pipeline.pdf)
+![Pipeline Overview](/misc/pipeline_page-0001.jpg)
 
 The complete end-to-end research pipeline consists of the following stages:
 
