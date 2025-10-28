@@ -54,26 +54,70 @@ export default function EvaluatePage() {
         return;
       }
 
-      const { data: userRatings, error: ratingsError } = await supabase
-        .from('ratings')
-        .select('story_id')
-        .eq('user_id', user.id);
+      // const { data: userRatings, error: ratingsError } = await supabase
+      //   .from('ratings')
+      //   .select('story_id')
+      //   .eq('user_id', user.id);
 
-      if (ratingsError) {
-        console.error('❌ Error fetching user ratings:', ratingsError);
+      // if (ratingsError) {
+      //   console.error('❌ Error fetching user ratings:', ratingsError);
+      //   return;
+      // }
+
+      // const ratedStoryIds = userRatings?.map((r) => r.story_id) || [];
+
+      // const filteredReviews = (allReviews || [])
+      //   .map((review) => {
+      //     const filteredStories = review.user_stories.filter(
+      //       (s: UserStory) => !ratedStoryIds.includes(s.id)
+      //     );
+      //     return { ...review, user_stories: filteredStories };
+      //   })
+      //   .filter((r) => r.user_stories.length > 0);
+
+      // Fetch all ratings
+      const { data: rated, error: ratedError } = await supabase
+        .from('ratings')
+        .select('story_id, user_id');
+
+      if (ratedError) {
+        console.error('❌ Error fetching ratings:', ratedError);
         return;
       }
 
-      const ratedStoryIds = userRatings?.map((r) => r.story_id) || [];
+      // Map story_id to review_id
+      const { data: stories } = await supabase
+        .from('user_stories')
+        .select('id, review_id');
 
+      const storyToReviewMap: Record<string, string> = {};
+      stories?.forEach((s) => {
+        storyToReviewMap[s.id] = s.review_id;
+      });
+
+      // Count how many stories this user rated per review
+      const reviewRatingCount: Record<string, number> = {};
+      rated?.forEach((r) => {
+        if (r.user_id === user.id) {
+          const reviewId = storyToReviewMap[r.story_id];
+          if (reviewId) {
+            reviewRatingCount[reviewId] = (reviewRatingCount[reviewId] || 0) + 1;
+          }
+        }
+      });
+
+      // Filter reviews where this user has rated < 4 stories
       const filteredReviews = (allReviews || [])
+        .filter((review) => (reviewRatingCount[review.id] || 0) < 4)
         .map((review) => {
           const filteredStories = review.user_stories.filter(
-            (s: UserStory) => !ratedStoryIds.includes(s.id)
+            (s: UserStory) =>
+              !rated.some((r) => r.user_id === user.id && r.story_id === s.id)
           );
           return { ...review, user_stories: filteredStories };
         })
         .filter((r) => r.user_stories.length > 0);
+
 
       setReviews(filteredReviews);
       setRatings(
@@ -88,11 +132,17 @@ export default function EvaluatePage() {
   }, []);
 
   // Check if all stories have been rated (no zeros)
+  // const allRated =
+  //   reviews.length > 0 &&
+  //   ratings[currentIndex].every((storyRatings) =>
+  //     storyRatings.every((val) => val > 0)
+  //   );
   const allRated =
-    reviews.length > 0 &&
-    ratings[currentIndex].every((storyRatings) =>
-      storyRatings.every((val) => val > 0)
-    );
+  reviews.length > 0 &&
+  ratings[currentIndex]?.every((storyRatings) =>
+    storyRatings.every((val) => val > 0)
+  );
+
 
   const handleRatingChange = (
     storyIdx: number,
@@ -225,16 +275,16 @@ export default function EvaluatePage() {
           disabled={!allRated || submitted[currentIndex]}
           className="px-6 py-2 bg-green-600 text-white rounded disabled:opacity-50"
         >
-          {submitted[currentIndex] ? 'Submitted' : 'Submit Ratings for This Review'}
+          {submitted[currentIndex] ? 'Submitted' : 'Submit'}
         </button>
 
-        <button
+        {/* <button
           onClick={nextReview}
           disabled={!submitted[currentIndex] || currentIndex === reviews.length - 1}
           className="px-4 py-2 bg-blue-600 text-white rounded disabled:opacity-50"
         >
           Next
-        </button>
+        </button> */}
       </div>
     </div>
   );
