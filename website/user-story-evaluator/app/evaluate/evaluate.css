@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background:  #baccf0;
+  color: #1a202c;
+}
+
+.eval-container {
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.review-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.review-content {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.rating-buttons {
+  display: flex;
+  justify-content: space-between;
+  color: #1e3a8a;
+  margin-top: 2rem;
+}
+
+.rating-buttons button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.prev-btn {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.prev-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.submit-btn {
+  background-color: #16a34a;
+  color: white;
+}
+
+.next-btn {
+  background-color: #2563eb;
+  color: white;
+}
